@@ -8,15 +8,15 @@ The project involves several key tasks:
 
 2. Building a Recommendation System:
  - Exploring and implementing user-based and item-based recommendation systems.
-- Selecting the best-suited recommendation system based on analysis.
+ - Selecting the best-suited recommendation system based on analysis.
 
 3.Improving Recommendations Using Sentiment Analysis:
--Integrating the sentiment analysis model with the recommendation system.
--Filtering out the best products based on sentiment analysis of recommended products.
+ - Integrating the sentiment analysis model with the recommendation system.
+ - Filtering out the best products based on sentiment analysis of recommended products.
 
 4.Deployment with a User Interface:
-- Using Flask framework to deploy the machine learning models.
-- Creating a user interface where users can input their username.
-- Recommending 5 products based on the entered username.
+ - Using Flask framework to deploy the machine learning models.
+ - Creating a user interface where users can input their username.
+ - Recommending 5 products based on the entered username.
 
 The final deployed system will provide users with personalized product recommendations, enhancing their shopping experience and potentially increasing the company's sales and market competitiveness.
